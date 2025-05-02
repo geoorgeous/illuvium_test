@@ -4,8 +4,8 @@
 
 ## Quick Start Guide
 
-1. Download the contents of the **[/UE](./UE/)** folder in this repository.
-2. Open UE/IlluviumTest.uproject in Unreal Engine 5. The project was created with **Unreal Engine 5.5.4**, so use this version for best result or if you're having trouble loading or building the project.
+1. Download and extract **[IlluviumTest.zip](./IlluviumTest.zip)**, or clone this repository on your local machine.
+2. Open IlluviumTest.uproject in Unreal Engine 5. The project was created with **Unreal Engine 5.5.4**, so use this version for best result or if you're having trouble loading or building the project.
 3. The project should open in the **Content/Maps/Arena.umap** Map by default. If it doesn't, then open it.
 4. Hit the Play-In-Editor button to run the game. **You can fly around to get a better look at the map**.
 5. **Play around with the simulation settings**. These can be found in **`Content/BP_ArenaGameMode > Class Defaults > Details panel > Arena Game Mode Base`**. Hover over each property to see a more detailed description.
